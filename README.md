@@ -71,12 +71,11 @@ calibrated chart note to ensure they satisfy the requirements of specified stand
 - Actively participated in numerous trauma surgeries, contributing to critical surgical procedures.
 - Successfully treated approximately 1,000 patients annually, demonstrating proficiency in patient care and dental treatment.
 
-## Project
-### Data Analytics
-### NLP and Machine Learning
+## Projects
+
 #### Sentiment Analysis of 2020 Presidential Election Debates
 
-[Project](https://github.com/aarjun94/Data-Analysis/blob/main/NLP.ipynb)
+[Project Link](https://github.com/aarjun94/Data-Analysis/blob/main/NLP.ipynb)
 
 This project is an intricate analysis of the U.S. presidential debates between Donald Trump and Joe Biden. Employing advanced Natural Language Processing (NLP) techniques, the aim was to unravel the complex layers of linguistic patterns, sentiments, and communication tactics used by the candidates. The project involved meticulous data preprocessing of debate transcripts, application of NLP methods like tokenization, stopword removal, stemming, and lemmatization, and a robust quantitative analysis of word usage. Sentiment analysis was a key component, assessing the emotional tone and underlying sentiments of each candidate's speeches.
 
@@ -84,7 +83,7 @@ The methodology encompassed Python programming, leveraging NLP libraries such as
 
 ### Predictive Analysis of Titanic Survivorship Using Machine Learning
 
-[Project](https://github.com/aarjun94/Data-Analysis/blob/main/Machinelearning.ipynb)
+[Project Link](https://github.com/aarjun94/Data-Analysis/blob/main/Machinelearning.ipynb)
 
 This project objective is to forecast the survival outcomes of the Titanic passengers by utilizing machine learning techniques to analyze and predict based on historical data. The project began with a meticulous phase of data preparation, where I cleaned and conducted an exploratory data analysis (EDA) on the Titanic dataset. This initial phase was crucial for understanding the data's intricacies and laying the foundation for accurate predictive modeling.
 
@@ -101,6 +100,7 @@ In this project, I created a sophisticated web application using Flask, a Python
 Skills demonstrated in this project are web application development with Flask, database management with SQLite3, data processing and visualization, and API integration. It also involved crafting complex SQL queries to handle user searches and presenting results in an engaging format using HTML and CSS.
 
 ### Venture Capital
+
 ### Sustainability
 ### Strategy
   
