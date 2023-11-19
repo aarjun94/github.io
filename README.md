@@ -26,7 +26,7 @@
 - Developed detailed financial projections and business models that demonstrated long-term
 profitability and sustainability of proposed social venture. These projections showcased potential return on investment (ROI) of 25% within three years
 
-### COTA Healthcare (_June 2022 to August 2022_)
+### ![image](https://github.com/aarjun94/github.io/assets/103142559/40c2ad29-d0ff-434c-90cf-e30bd927df07) COTA Healthcare (_June 2022 to August 2022_)
 - Designed and launched Quality Management Dashboard for product team saving company 15% in operating expenses, about $20K/month
 - Implemented and customized data automation process for medical team, optimizing processing efficiency, resulting in 25% reduction in operational expenses, 15% increase in data quality, and 15% improvement in workflow efficiency
 
