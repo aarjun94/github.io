@@ -94,7 +94,7 @@ The analytical part of the project involved the strategic application of various
 
 [Project Link](https://github.com/aarjun94/Movie_database)
 
-/assets/img/annotated-FINAL%20PROJECT%20SUBMISSION_507.jpg
+![Showflix](/assets/img/annotated-FINAL%20PROJECT%20SUBMISSION_507.jpg)
 
 In this project, I created a sophisticated web application using Flask, a Python web framework, designed to provide detailed information about movies and TV shows. This application offered a user-friendly interface for querying based on language, genre, and year, and displayed extensive data such as descriptions, popularity scores, and IMDb ratings. The backend was powered by an SQLite database, structured to efficiently store and manage diverse movie and TV show data. For data collection, I used Python's Pandas library to process CSV files, and integrated The Movie Database (TMDb) API for real-time data retrieval, including fetching IMDb IDs and poster images. Additionally, I implemented web scraping techniques to gather actor images from Wikipedia, enhancing the richness of the information presented.
 
