@@ -1,10 +1,10 @@
 ## Education
 ### University of Michigan, Ann Arbor 
 - Masters in Business Administration (_August 2021 to May 2024_)
-- Masters in Health Informatics (_August 2021 to May 2021_)
+- Masters in Health Informatics (_August 2021 to May 2024_)
 
 ### Maharashtra University of Health Sciences
-- Bachelor of Dental Surgery (_August 2017 to September 2016_)
+- Bachelor of Dental Surgery (_August 2012 to September 2016_)
 
 ## Work Experience
 ### Arc Health PBC (_June 2021 to Present_)
@@ -17,6 +17,8 @@
 - Mapping LCA of battery value chain, and system boundaries from raw material aquisition to battery manufacturing
   
 ### University of Michigan (_August 2021 to Present_)
+- Facilitated SI 618 and SI 370: Data Analysis and Manipulation, guiding students in mastering complex data analysis techniques using Python and SQL, and fostering practical skills in data manipulation, visualization, and interpretation to solve real-world problems. Actively engaged in curriculum development, leading interactive sessions, and providing personalized feedback and support to enhance student learning outcomes.
+
 ### COTA Healthcare (_June 2022 to August 2022_)
 ### Michigan Medicine (_November 2021 to August 2022_)
 ### AssureCare LLC (_January 2021 to July 2021_)
