@@ -80,7 +80,7 @@ calibrated chart note to ensure they satisfy the requirements of specified stand
 
 This project is an intricate analysis of the U.S. presidential debates between Donald Trump and Joe Biden. Employing advanced Natural Language Processing (NLP) techniques, the aim was to unravel the complex layers of linguistic patterns, sentiments, and communication tactics used by the candidates. The project involved meticulous data preprocessing of debate transcripts, application of NLP methods like tokenization, stopword removal, stemming, and lemmatization, and a robust quantitative analysis of word usage. Sentiment analysis was a key component, assessing the emotional tone and underlying sentiments of each candidate's speeches.
 
-The methodology encompassed Python programming, leveraging NLP libraries such as NLTK and Spacy, and data manipulation with Pandas and NumPy. I demonstrated strong analytical skills in handling the unique challenges of political speech analysis and showcased my problem-solving abilities. The visual representation of data was achieved using Matplotlib and Seaborn, which helped in interpreting and comparing the linguistic data effectively. 
+The methodology encompassed Python programming, leveraging NLP libraries such as NLTK and Spacy, and data manipulation with Pandas and NumPy. The visual representation of data was achieved using Matplotlib and Seaborn, which helped in interpreting and comparing the linguistic data effectively. 
 
 ### Predictive Analysis of Titanic Survivorship Using Machine Learning
 
