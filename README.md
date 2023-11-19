@@ -1,3 +1,6 @@
+## About Me
+Hello! I'm Arjun Ananda Padmanabhan, a dynamic professional with a rich blend of expertise in business administration, health informatics, and clinical experience. A graduate of the University of Michigan, I've developed a keen acumen in both the healthcare and business sectors. My career path showcases a strong track record in leadership roles, innovative problem-solving, and a passion for integrating technology into healthcare and business strategies. Currently, I leverage my diverse skill set to create impactful solutions in sustainability, operational effectiveness, and market research. I'm deeply committed to driving positive change and excellence in every endeavor I undertake.
+
 ## Education
 ### University of Michigan, Ann Arbor 
 - Masters in Business Administration (_August 2021 to May 2024_)
