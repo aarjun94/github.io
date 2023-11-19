@@ -90,6 +90,13 @@ This project objective is to forecast the survival outcomes of the Titanic passe
 
 The analytical part of the project involved the strategic application of various classification algorithms. I employed a range of models such as Logistic Regression, Support Vector Machines, and Random Forest classifiers, each offering unique strengths in handling the intricacies of the Titanic dataset. A significant portion of the project was dedicated to hyperparameter tuning and cross-validation to optimize the models' performance.
 
+#### ShowFlix (Movie Database)
+
+[Project Link](https://github.com/aarjun94/Movie_database)
+
+In this project, I created a sophisticated web application using Flask, a Python web framework, designed to provide detailed information about movies and TV shows. This application offered a user-friendly interface for querying based on language, genre, and year, and displayed extensive data such as descriptions, popularity scores, and IMDb ratings. The backend was powered by an SQLite database, structured to efficiently store and manage diverse movie and TV show data. For data collection, I used Python's Pandas library to process CSV files, and integrated The Movie Database (TMDb) API for real-time data retrieval, including fetching IMDb IDs and poster images. Additionally, I implemented web scraping techniques to gather actor images from Wikipedia, enhancing the richness of the information presented.
+
+Skills demonstrated in this project are web application development with Flask, database management with SQLite3, data processing and visualization, and API integration. It also involved crafting complex SQL queries to handle user searches and presenting results in an engaging format using HTML and CSS.
 
 ### Venture Capital
 ### Sustainability
