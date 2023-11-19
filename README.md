@@ -15,11 +15,21 @@
 ### Kearney-Ross Student Lab (_August 2023 to Present_)
 - Developing a tailored carbon emission (Scope 3) calculation model to assist a Fortune 50 electric vehicle and industrial equipment manufacturer in achieving their 2025 sustainability objectives
 - Mapping LCA of battery value chain, and system boundaries from raw material aquisition to battery manufacturing
-  
+
 ### University of Michigan (_August 2021 to Present_)
-- Facilitated SI 618 and SI 370: Data Analysis and Manipulation, guiding students in mastering complex data analysis techniques using Python and SQL, and fostering practical skills in data manipulation, visualization, and interpretation to solve real-world problems. Actively engaged in curriculum development, leading interactive sessions, and providing personalized feedback and support to enhance student learning outcomes.
+- Facilitated SI 618 and SI 370: Data Analysis and Manipulation, guiding students in mastering complex data analysis techniques using Python and SQL, and fostering practical skills in data manipulation, visualization, and interpretation to solve real-world problems.
+- Actively engaged in curriculum development, leading interactive sessions, and providing personalized feedback and support to enhance student learning outcomes.
+
+### Rural Community Action Program (_February 2023 to May 2023_)
+- Conducted extensive market research and analysis to assess feasibility of establishing new social venture centered on heat pump sales in Anchorage, projected potential revenue increase of $500K within the first year
+- Performed comprehensive breakdown, statistical analysis for energy-efficient solutions, identifying potential cost savings of up to 20% for potential customers and estimated customer conversion rate increase of 15%
+- Developed detailed financial projections and business models that demonstrated long-term
+profitability and sustainability of proposed social venture. These projections showcased potential return on investment (ROI) of 25% within three years
 
 ### COTA Healthcare (_June 2022 to August 2022_)
+- Designed and launched Quality Management Dashboard for product team saving company 15% in operating expenses, about $20K/month
+- Implemented and customized data automation process for medical team, optimizing processing efficiency, resulting in 25% reduction in operational expenses, 15% increase in data quality, and 15% improvement in workflow efficiency
+
 ### Michigan Medicine (_November 2021 to August 2022_)
 ### AssureCare LLC (_January 2021 to July 2021_)
 ### IKS Healthcare (_January 2020 to January 2021_)
