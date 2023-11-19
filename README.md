@@ -26,11 +26,14 @@
 - Developed detailed financial projections and business models that demonstrated long-term
 profitability and sustainability of proposed social venture. These projections showcased potential return on investment (ROI) of 25% within three years
 
-### ![image](https://github.com/aarjun94/github.io/assets/103142559/40c2ad29-d0ff-434c-90cf-e30bd927df07) COTA Healthcare (_June 2022 to August 2022_)
+### COTA Healthcare (_June 2022 to August 2022_)
 - Designed and launched Quality Management Dashboard for product team saving company 15% in operating expenses, about $20K/month
 - Implemented and customized data automation process for medical team, optimizing processing efficiency, resulting in 25% reduction in operational expenses, 15% increase in data quality, and 15% improvement in workflow efficiency
 
 ### Michigan Medicine (_November 2021 to August 2022_)
+- Developed and deployed machine learning algorithms for $250K project, to predict quality of life in patients with Huntington's disease to aid in treatment decisions and outcomes
+- Partnered with 10+ clinical professionals to streamline data collection process, enhancing quality of data by 20%
+  
 ### AssureCare LLC (_January 2021 to July 2021_)
 ### IKS Healthcare (_January 2020 to January 2021_)
 ### Vasta Bio-informatics (_October 2018 to January 2020_)
