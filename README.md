@@ -9,7 +9,7 @@
 ## Work Experience
 - ### Arc Health PBC (_June 2021 to Present_)
 - ### Kearney-Ross Student Lab (_August 2023 to Present_)
-- University of Michigan (_August 2021 to Present_)
+- ### University of Michigan (_August 2021 to Present_)
 - ### COTA Healthcare (_June 2022 to August 2022_)
 - ### Michigan Medicine (_November 2021 to August 2022_)
 - ### AssureCare LLC (_January 2021 to July 2021_)
