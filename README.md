@@ -66,9 +66,10 @@ calibrated chart note to ensure they satisfy the requirements of specified stand
 - Mentored 10 team members, teaching them customer preferences and how to conform to the set norms of their respective physicians. By incorporating 80 smart phrases, we were able to reduce production time for generating a single chart history by 30% while increasing team total output by 60%
 
 ### Government Dental college and Hospital, Mumbai (_October 2016 to October 2017_)
-#### Residency
-
-
+#### Internship
+- Gained diverse experience across various dental departments, managing complex cases with skill and precision. 
+- Actively participated in numerous trauma surgeries, contributing to critical surgical procedures.
+- Successfully treated approximately 1,000 patients annually, demonstrating proficiency in patient care and dental treatment.
 
 ## Project
 ### Data Analytics
