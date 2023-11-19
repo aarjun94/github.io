@@ -73,7 +73,7 @@ calibrated chart note to ensure they satisfy the requirements of specified stand
 
 ## Project
 ### Data Analytics
-### NLP
+### NLP and Machine Learning
 #### Sentiment Analysis of 2020 Presidential Election Debates
 
 [Project](https://github.com/aarjun94/Data-Analysis/blob/main/NLP.ipynb)
@@ -81,6 +81,15 @@ calibrated chart note to ensure they satisfy the requirements of specified stand
 This project is an intricate analysis of the U.S. presidential debates between Donald Trump and Joe Biden. Employing advanced Natural Language Processing (NLP) techniques, the aim was to unravel the complex layers of linguistic patterns, sentiments, and communication tactics used by the candidates. The project involved meticulous data preprocessing of debate transcripts, application of NLP methods like tokenization, stopword removal, stemming, and lemmatization, and a robust quantitative analysis of word usage. Sentiment analysis was a key component, assessing the emotional tone and underlying sentiments of each candidate's speeches.
 
 The methodology encompassed Python programming, leveraging NLP libraries such as NLTK and Spacy, and data manipulation with Pandas and NumPy. I demonstrated strong analytical skills in handling the unique challenges of political speech analysis and showcased my problem-solving abilities. The visual representation of data was achieved using Matplotlib and Seaborn, which helped in interpreting and comparing the linguistic data effectively. 
+
+### Predictive Analysis of Titanic Survivorship Using Machine Learning
+
+[Project](https://github.com/aarjun94/Data-Analysis/blob/main/Machinelearning.ipynb)
+
+This project objective is to forecast the survival outcomes of the Titanic passengers by utilizing machine learning techniques to analyze and predict based on historical data. The project began with a meticulous phase of data preparation, where I cleaned and conducted an exploratory data analysis (EDA) on the Titanic dataset. This initial phase was crucial for understanding the data's intricacies and laying the foundation for accurate predictive modeling.
+
+The analytical part of the project involved the strategic application of various classification algorithms. I employed a range of models such as Logistic Regression, Support Vector Machines, and Random Forest classifiers, each offering unique strengths in handling the intricacies of the Titanic dataset. A significant portion of the project was dedicated to hyperparameter tuning and cross-validation to optimize the models' performance.
+
 
 ### Venture Capital
 ### Sustainability
