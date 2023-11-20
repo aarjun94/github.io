@@ -77,6 +77,8 @@ calibrated chart note to ensure they satisfy the requirements of specified stand
 
 [Project Link](https://github.com/aarjun94/Data-Analysis/blob/main/NLP.ipynb)
 
+![Nlp](/assets/img/output_nlp.png)
+
 This project is an intricate analysis of the U.S. presidential debates between Donald Trump and Joe Biden. Employing advanced Natural Language Processing (NLP) techniques, the aim was to unravel the complex layers of linguistic patterns, sentiments, and communication tactics used by the candidates. The project involved meticulous data preprocessing of debate transcripts, application of NLP methods like tokenization, stopword removal, stemming, and lemmatization, and a robust quantitative analysis of word usage. Sentiment analysis was a key component, assessing the emotional tone and underlying sentiments of each candidate's speeches.
 
 The methodology encompassed Python programming, leveraging NLP libraries such as NLTK and Spacy, and data manipulation with Pandas and NumPy. The visual representation of data was achieved using Matplotlib and Seaborn, which helped in interpreting and comparing the linguistic data effectively. 
@@ -84,6 +86,8 @@ The methodology encompassed Python programming, leveraging NLP libraries such as
 ### Predictive Analysis of Titanic Survivorship Using Machine Learning
 
 [Project Link](https://github.com/aarjun94/Data-Analysis/blob/main/Machinelearning.ipynb)
+
+![Titanic](/assets/img/output.jpg)
 
 This project objective is to forecast the survival outcomes of the Titanic passengers by utilizing machine learning techniques to analyze and predict based on historical data. The project began with a meticulous phase of data preparation, where I cleaned and conducted an exploratory data analysis (EDA) on the Titanic dataset. This initial phase was crucial for understanding the data's intricacies and laying the foundation for accurate predictive modeling.
 
