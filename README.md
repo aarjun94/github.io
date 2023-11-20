@@ -105,7 +105,7 @@ Skills demonstrated in this project are web application development with Flask, 
 
 ### COVID Tweet sentiment analysis
 
-[Project Link](https://github.com/aarjun94/Movie_database](https://github.com/aarjun94/NLP/tree/main/covidtweets_sentiment_analysis)
+[Project Link](https://github.com/aarjun94/NLP/tree/main/covidtweets_sentiment_analysis)
 
 ![Showflix](/assets/img/covid.png)
 
