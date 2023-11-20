@@ -103,6 +103,16 @@ In this project, I created a sophisticated web application using Flask, a Python
 
 Skills demonstrated in this project are web application development with Flask, database management with SQLite3, data processing and visualization, and API integration. It also involved crafting complex SQL queries to handle user searches and presenting results in an engaging format using HTML and CSS.
 
+### COVID Tweet sentiment analysis
+
+[Project Link](https://github.com/aarjun94/Movie_database](https://github.com/aarjun94/NLP/tree/main/covidtweets_sentiment_analysis)
+
+![Showflix](/assets/img/covid.png)
+
+In this project, deep learning techniques were utilized to analyze and compare the sentiments expressed in COVID-19 related tweets from politically distinct Red and Blue states. The project involved collecting a large dataset of tweets using API (SNS Scrape), which were then categorized based on the geographic location of the users to identify the political leaning of each state. Employing advanced NLP methodologies, I processed and normalized the textual data, preparing it for deep learning analysis. 
+
+The sentiment analysis was conducted using a sophisticated model, incorporating BERT model, adept at capturing the contextual nuances in the tweets. This approach enabled a nuanced comparison of public sentiment across different political landscapes during the pandemic. The results, visualized through compelling data visualizations, offered insightful perspectives on how public opinion varied in response to COVID-19 across the political divide.
+
 ### Venture Capital
 
 ### Sustainability
