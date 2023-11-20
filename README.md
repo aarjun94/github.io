@@ -113,6 +113,7 @@ In this project, deep learning techniques were utilized to analyze and compare t
 
 The sentiment analysis was conducted using a sophisticated model, incorporating BERT model, adept at capturing the contextual nuances in the tweets. This approach enabled a nuanced comparison of public sentiment across different political landscapes during the pandemic. The results, visualized through compelling data visualizations, offered insightful perspectives on how public opinion varied in response to COVID-19 across the political divide.
 
+## Action Based Learning Projects
 ### Venture Capital
 ### Turner MIINT Investment Fellow
 - Served as an Investment Fellow in the Tuner MIINT program, conducting in-depth market research, financial analysis, and due diligence for potential investment opportunities in emerging markets.
@@ -121,7 +122,4 @@ The sentiment analysis was conducted using a sophisticated model, incorporating 
 ### International Investment Fund (Ross school of Business)
 - Actively participated in the International Investment Fund at Ross School of Business, focusing on identifying and evaluating promising startups in India and Africa. Conducted comprehensive market analysis, financial modeling, and due diligence to assess investment viability and potential for high returns.
 - Collaborated with a diverse team to develop investment strategies, contributing to the fund's mission of fostering growth and innovation in emerging markets.
-
-### Sustainability
-### Strategy
   
