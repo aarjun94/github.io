@@ -87,7 +87,7 @@ The methodology encompassed Python programming, leveraging NLP libraries such as
 
 [Project Link](https://github.com/aarjun94/Data-Analysis/blob/main/Machinelearning.ipynb)
 
-![Titanic](/assets/img/output.jpg)
+![Titanic](/assets/img/output.png)
 
 This project objective is to forecast the survival outcomes of the Titanic passengers by utilizing machine learning techniques to analyze and predict based on historical data. The project began with a meticulous phase of data preparation, where I cleaned and conducted an exploratory data analysis (EDA) on the Titanic dataset. This initial phase was crucial for understanding the data's intricacies and laying the foundation for accurate predictive modeling.
 
