@@ -118,7 +118,7 @@ The sentiment analysis was conducted using a sophisticated model, incorporating 
 - Served as an Investment Fellow in the Tuner MIINT program, conducting in-depth market research, financial analysis, and due diligence for potential investment opportunities in emerging markets.
 - Collaborated with a team to evaluate and present investment recommendations to a panel of experienced investors, focusing on high-impact ventures with sustainable growth potential.
 
-### Internation Invesnment Fund (Ross school of Business)
+### International Investment Fund (Ross school of Business)
 - Actively participated in the International Investment Fund at Ross School of Business, focusing on identifying and evaluating promising startups in India and Africa. Conducted comprehensive market analysis, financial modeling, and due diligence to assess investment viability and potential for high returns.
 - Collaborated with a diverse team to develop investment strategies, contributing to the fund's mission of fostering growth and innovation in emerging markets.
 
